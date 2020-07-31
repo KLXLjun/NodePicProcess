@@ -28,7 +28,7 @@ npm start
 ### 说明
 
 - 当宽度和高度之中只使用一个参数时 另一个参数则为自适应
-    >http://www.example.com/a.webp?w=200 
+    >例如 http://www.example.com/a.webp?w=200 
     >或是
     >http://www.example.com/a.webp?h=200
 
